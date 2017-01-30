@@ -1,0 +1,17 @@
+[
+  {
+    "name" : "Start",
+    "isShowing" : true,
+    "channels" : [
+      {
+        "title" : "Kobble",
+        "subtitle" : "Kobble Base Tracks",
+        "channel" : {
+          "owner" : "kobble-git",
+          "repo" : "kobble-common-data",
+          "path" : "channels/kobble"
+        }
+      }
+    ]
+  }
+]
