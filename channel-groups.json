@@ -5,7 +5,7 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Kobble",
+          "title" : "Kobble Home",
           "subtitle" : "Kobble Home Tracks",
           "channel" : {
             "owner" : "kobble-git",
