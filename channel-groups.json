@@ -6,7 +6,7 @@
       "channels" : [
         {
           "title" : "Kobble",
-          "subtitle" : "Kobble Base Tracks",
+          "subtitle" : "Kobble Home Tracks",
           "channel" : {
             "owner" : "kobble-git",
             "repo" : "kobble-data-common",
